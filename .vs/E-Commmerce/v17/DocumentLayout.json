@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\ireposatory\\repositorymodels\\categoryrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\ireposatory\\repositorymodels\\categoryrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\ireposatory\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\ireposatory\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -63,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -77,22 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\oppadev\\desktop\\pruebas de software\\tercer parcial\\e-commerce\\e-commmerce\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -114,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,67 +134,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "E-Commmerce\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T01:32:30.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "E-Commmerce\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T01:54:08.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Category\\Details.cshtml",
-              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\Details.cshtml",
-              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Category\\Details.cshtml",
-              "RelativeToolTip": "E-Commmerce\\Views\\Category\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T01:50:12.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\appsettings.json",
-              "RelativeDocumentMoniker": "E-Commmerce\\appsettings.json",
-              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\appsettings.json",
-              "RelativeToolTip": "E-Commmerce\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T00:17:28.926Z"
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs.cs",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\IReposatory\\RepositoryModels\\CategoryRepository.cs.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\IReposatory\\RepositoryModels\\CategoryRepository.cs.cs",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\IReposatory\\RepositoryModels\\CategoryRepository.cs.cs",
+              "RelativeToolTip": "E-Commmerce\\IReposatory\\RepositoryModels\\CategoryRepository.cs.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:05:44.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\IReposatory\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\IReposatory\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\IReposatory\\ICategoryRepository.cs",
+              "RelativeToolTip": "E-Commmerce\\IReposatory\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:05:41.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ApplicationDbcontext.cs",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Data\\ApplicationDbcontext.cs",
               "RelativeDocumentMoniker": "E-Commmerce\\Data\\ApplicationDbcontext.cs",
               "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Data\\ApplicationDbcontext.cs",
               "RelativeToolTip": "E-Commmerce\\Data\\ApplicationDbcontext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwCIAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T00:17:22.729Z"
+              "WhenOpened": "2025-02-25T00:17:22.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\AccountController.cs",
@@ -199,19 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Product\\UserIndex.cshtml",
-              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Product\\UserIndex.cshtml",
-              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Product\\UserIndex.cshtml",
-              "RelativeToolTip": "E-Commmerce\\Views\\Product\\UserIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T00:17:22.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "_ChangeCategoryForm.cshtml",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Category\\_ChangeCategoryForm.cshtml",
               "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\_ChangeCategoryForm.cshtml",
@@ -223,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "UserIndex.cshtml",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Category\\UserIndex.cshtml",
               "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\UserIndex.cshtml",
@@ -235,7 +210,132 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Roles.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:21:36.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Product.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:21:33.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:21:32.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Category.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:21:26.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:17:22.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T00:17:22.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commmerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\appsettings.json",
+              "RelativeToolTip": "E-Commmerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T00:17:28.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T01:50:12.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T01:54:08.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T01:32:30.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\appsettings.Development.json",
               "RelativeDocumentMoniker": "E-Commmerce\\appsettings.Development.json",
@@ -247,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\HomeController.cs",
@@ -259,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\ProductController.cs",
@@ -271,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "RoleController.cs",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\RoleController.cs",
@@ -283,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Account\\Create.cshtml",
               "RelativeDocumentMoniker": "E-Commmerce\\Views\\Account\\Create.cshtml",
@@ -295,19 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Roles.cs",
-              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Roles.cs",
-              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Roles.cs",
-              "RelativeToolTip": "E-Commmerce\\Models\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T00:21:36.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "ShowAll.cshtml",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Category\\ShowAll.cshtml",
               "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\ShowAll.cshtml",
@@ -319,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\Index.cshtml",
@@ -331,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "E-Commmerce\\Views\\Home\\Index.cshtml",
@@ -343,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\CategoryController.cs",
@@ -355,55 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Product.cs",
-              "RelativeToolTip": "E-Commmerce\\Models\\Product.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T00:21:33.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "E-Commmerce\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "E-Commmerce\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T00:21:32.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\Category.cs",
-              "RelativeToolTip": "E-Commmerce\\Models\\Category.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T00:21:26.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "E-Commmerce\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "E-Commmerce\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T00:17:22.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Views\\Role\\Edit.cshtml",
               "RelativeDocumentMoniker": "E-Commmerce\\Views\\Role\\Edit.cshtml",
@@ -415,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "libman.json",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\libman.json",
               "RelativeDocumentMoniker": "E-Commmerce\\libman.json",
@@ -427,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\OppaDev\\Desktop\\Pruebas de Software\\Tercer Parcial\\E-Commerce\\E-Commmerce\\Program.cs",
               "RelativeDocumentMoniker": "E-Commmerce\\Program.cs",
